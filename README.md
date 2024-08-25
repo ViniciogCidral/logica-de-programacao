@@ -1,2 +1,2 @@
-# logica de programacao
+# logica de programação
  Primeiro repositorio do curso
